@@ -1,5 +1,5 @@
 <h1 align="center"> 
-    <img width="500" src="https://github.com/JoinSGN/Awesome-Streaming/blob/main/images/banner.png" alt="logo"/> 
+    <img width="1350" src="https://github.com/Streamer-Growth-Network/Awesome-Streaming/blob/main/images/banner.png" alt="logo"/> 
 </h1> 
 <hr/> 
 <p align="center"> 
