@@ -1,5 +1,5 @@
 <h1 align="center"> 
-    <img width="1350" src="https://github.com/Streamer-Growth-Network/Awesome-Streaming/blob/main/images/banner.png" alt="logo"/> 
+    <img width="1350" src="https://github.com/VertioseLabs/Awesome-Streaming/blob/main/images/awesome-banner.png" alt="logo"/> 
 </h1> 
 <hr/> 
 <p align="center"> 
@@ -60,7 +60,7 @@ A curated list of resources to help small streamers make **magic** happen.
 - [Game Development](#game-development)
 - [V-Tubing](#v-tubing) 
 - [How To Start An LLC](#how-to-start-an-llc) 
-- [SGN Official Links](#sgn-official-links) 
+- [Vertiose Official Links](#vertiose-official-links) 
 
 ## Content Creation 
 
@@ -444,19 +444,17 @@ _Useful, trusted sources on how to start an LLC._
 - :free: [Insurance Requirements](https://www.sba.gov/business-guide/launch-your-business/get-business-insurance) - Outline of business insurance recommendations and requirements. 
 - :free: [Tax Preparation](https://www.upcounsel.com/llc-tax-rates-by-state) - LLC tax rate averages arranged by state. 
 
-## SGN Official Links 
+## Vertiose Official Links 
 
-_The official links for all of the SGN resources, and social media._ 
+_The official links for all of the Vertiose resources, and social media._ 
 
-- :free: [SGN Link Tree](https://linktr.ee/joinsgn) - The linktree for the Streamer Growth Network's online presence. 
-- :free: [SGN Official Website](https://sgn.army/) - The official landing page for the Streamer Growth Network. 
-- :free: [SGN Discord](https://discord.gg/joinsgn) - The official vanity URL for the Streamer Growth Network Discord. 
-- :free: [SGN Patreon](https://www.patreon.com/JoinSGN?fan_landing=true&view_as=public) - The official Patreon for the Streamer Growth Network. Multiple roles are available for both streamers, and brands alike. 
-- :free: [SGN Amazon Affiliate Program](https://amzn.to/3qrmoVD) - The official Amazon Affiliate Marketing Program for the Streamer Growth Network. Whenever you need to buy something on Amazon, consider supporting us by simply clicking the link. No special purchase required! 
-- :free: [SGN Twitter](https://twitter.com/joinsgn) - The official twitter account for the Streamer Growth Network. Official retweet accounts, and admins are the only followers. 
-- :free: [SGN Instagram](https://www.instagram.com/joinsgn/) - The official Streamer Growth Network Instagram. 
-- :free: [SGN TikTok](https://tiktok.com/@JoinSGN) - The official Streamer Growth Network TikTok. 
-- :free: [SGN Youtube](https://www.youtube.com/c/SGNDiscord?sub_confirmation=1) - The official Streamer Growth Network Youtube channel. 
-- :free: [SGN Twitch](https://twitch.tv/SGNArmy) - The official Streamer Growth Network Twitch account. The will be used for organized community raids, large giveaways and more! 
-- :free: [SGN Medium](https://medium.com/@JoinSGN) - The official Streamer Growth Network Medium account. Anyone is free to suggest ideas for articles via the "suggestions" channel within our Discord. 
-- :free: [SGN Github](https://github.com/JoinSGN) - The official Streamer Growth Network Github account. Anyone who wants to learn more about code, find mentors, or to collaborate is welcome <3  
+- :free: [Vertiose Link Tree](https://linktr.ee/vertiose) - The linktree for the Vertiose's online presence. 
+- :free: [Vertiose Official Website](https://vertiose.io/) - The official landing page for the Vertiose. 
+- :free: [Vertiose Discord](https://discord.gg/vertiose) - The official vanity URL for the Vertiose Discord. 
+- :free: [Vertiose Patreon](https://www.patreon.com/Vertiose?fan_landing=true&view_as=public) - The official Patreon for the Vertiose. Multiple roles are available for both streamers, and brands alike. 
+- :free: [Vertiose Twitter](https://twitter.com/vertiose) - The official twitter account for the Vertiose. Official retweet accounts, and admins are the only followers. 
+- :free: [Vertiose Instagram](https://www.instagram.com/xVertiose/) - The official Vertiose Instagram. 
+- :free: [Vertiose TikTok](https://tiktok.com/@Vertiose) - The official Vertiose TikTok. 
+- :free: [Vertiose Youtube](https://www.youtube.com/@vertiose/?sub_confirmation=1) - The official Vertiose Youtube channel. 
+- :free: [Vertiose Medium](https://medium.com/@Vertiose) - The official Vertiose Medium account. Anyone is free to suggest ideas for articles via the "suggestions" channel within our Discord. 
+- :free: [Vertiose Github](https://github.com/VertioseLabs) - The official Vertiose Github account. Anyone who wants to learn more about code, find mentors, or to collaborate is welcome <3  
